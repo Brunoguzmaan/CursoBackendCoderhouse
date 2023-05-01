@@ -72,10 +72,6 @@ Run the application locally
 > <p>Teach: Iram Gutierrez</p>
 > <p>Tutor: Gonzalo Moure.</p> 
 
-## Author
-> <p>Gastón Barlocco. </p>
-> <p>Email: barlocco@hotmail.es </p>
-
 
 ---
 <p align='center'>
